@@ -1,4 +1,4 @@
-- Hi, I’m JC
+- Hi, I’m Roj Chen
 - I’m a junior student at present
 - I’m currently learning in order to be an front-end enginner
 
